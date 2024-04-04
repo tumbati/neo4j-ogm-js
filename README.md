@@ -1,2 +1,2 @@
 # neo4j-orm
-An ORM for NEO4J Graph Database
+An OGM for NEO4J Graph Database
