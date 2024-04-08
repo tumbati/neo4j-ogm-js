@@ -1,6 +1,11 @@
 {
+	"author": {
+		"email": "njonjocode@gmail.com",
+		"name": "nejat-njonjo",
+		"url": "https://github.com/nejat-njonjo"
+	},
 	"dependencies": {
-		"neo4j-driver": "^5.19.0",
+		"neo4j-driver": "^5.19.0"
 	},
 	"devDependencies": {
 		"nodemon": "^3.1.0",
